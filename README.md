@@ -1,4 +1,4 @@
-![image](https://github.com/marcelotorres1982/tela_Login/assets/5902370/fa0a9608-937a-4f2d-9640-e947abd57b9c)# tela_Login
+#tela_Login
 Exemplo de tela de login responsiva, criada apenas com HTML, CSS e TailWind
 
 
